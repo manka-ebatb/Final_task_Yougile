@@ -1,0 +1,14 @@
+# Selenium для UI тестов
+selenium==4.27.1
+
+# Requests для API тестов
+requests==2.32.3
+
+# Pytest для запуска тестов
+pytest==9.0.2
+
+# Allure для красивых отчетов 
+allure-pytest==2.15.3
+
+# Webdriver Manager для автоматического управления драйверами
+webdriver-manager==4.0.2
